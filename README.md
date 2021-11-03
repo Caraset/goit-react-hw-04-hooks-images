@@ -1,1 +1,1 @@
-Sborka react-webpak bez musora
+git push -u origin main
